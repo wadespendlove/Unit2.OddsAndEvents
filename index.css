@@ -1,0 +1,49 @@
+body {
+  background-color: lightgray;
+}
+
+#input {
+  background-color: grey;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#bank-storage {
+  display: flex;
+  align-items: center;
+  background-color: darkgray;
+  border-style: solid;
+  border-radius: 10px;
+  height: 24px;
+  border: 2px solid black;
+  padding-left: 10px;
+}
+
+#odds-storage {
+  display: flex;
+  align-items: center;
+  background-color: darkgray;
+  border-style: solid;
+  border-radius: 10px;
+  height: 24px;
+  border: 2px solid black;
+  padding-left: 10px;
+}
+
+#evens-storage {
+  display: flex;
+  align-items: center;
+  background-color: darkgray;
+  border-style: solid;
+  border-radius: 10px;
+  height: 24px;
+  border: 2px solid black;
+  padding-left: 10px;
+}
